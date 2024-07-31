@@ -1,4 +1,6 @@
-﻿namespace AuthAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AuthAPI.Models
 {
     public class IndemnityForm
     {
@@ -8,7 +10,7 @@
 
         public string? EFormAttachment { get; set; }
 
-        public virtual ICollection<BikeDropIndemnity> BikeDropIndemnities { get; set; } = new List<BikeDropIndemnity>();
+        //public virtual ICollection<BikeDropIndemnity> BikeDropIndemnities { get; set; } = new List<BikeDropIndemnity>();
 
     }
 }

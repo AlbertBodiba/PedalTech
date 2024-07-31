@@ -8,8 +8,8 @@
 
         public DateTime? SignedDate { get; set; }
 
-        public virtual BikeDropVolunteer BikeDropVolunteer { get; set; } = null!;
+        //public virtual BikeDropVolunteer BikeDropVolunteer { get; set; } = null!;
 
-        public virtual IndemnityForm Indemnity { get; set; } = null!;
+        //public virtual IndemnityForm Indemnity { get; set; } = null!;
     }
 }
