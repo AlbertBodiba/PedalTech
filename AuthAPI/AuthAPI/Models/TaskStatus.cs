@@ -1,6 +1,5 @@
-﻿namespace AuthAPI.Models
+﻿public class TaskStatus
 {
-    public class TaskStatus
-    {
-    }
+    public int TaskStatusId { get; set; }
+    public bool Status { get; set; }
 }
