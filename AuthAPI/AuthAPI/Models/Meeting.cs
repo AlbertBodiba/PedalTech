@@ -1,5 +1,6 @@
 ﻿public class Meeting
 {
+    public int MeetingId { get; set; }
     public string Meeting_Title { get; set; }
     public DateTime Date { get; set; }
     public DateTime Start_Time { get; set; }
