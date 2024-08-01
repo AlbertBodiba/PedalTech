@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\indemnityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\indemnityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\bikedropindemnity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\bikedropindemnity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\bikedropevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\bikedropevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\controllers\\bikedropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\bikedropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\controllers\\bicyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\bicyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\bicycles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\bicycles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\accommodationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\accommodationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|c:\\users\\leboh\\downloads\\testfolder\\authapi\\authapi\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5AAA2-7868-49DC-A1E5-7D6706F43F81}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\License.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\License.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\License.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\License.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:12:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndemnityForm.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\IndemnityForm.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\IndemnityForm.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\IndemnityForm.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\IndemnityForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:11:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BikeDropIndemnity.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\BikeDropIndemnity.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\BikeDropIndemnity.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\BikeDropIndemnity.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\BikeDropIndemnity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:11:00.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BikeDropEvent.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\BikeDropEvent.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\BikeDropEvent.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\BikeDropEvent.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\BikeDropEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:10:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BikeDropController.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Controllers\\BikeDropController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\BikeDropController.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Controllers\\BikeDropController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\BikeDropController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:10:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BicyclesController.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Controllers\\BicyclesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\BicyclesController.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Controllers\\BicyclesController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\BicyclesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:10:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bicycles.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\Bicycles.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Bicycles.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\Bicycles.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Bicycles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:06:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLogService.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AuditLogService.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AuditLogService.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AuditLogService.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AuditLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:05:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AuditLog.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:55:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccommodationType.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AccommodationType.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AccommodationType.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\AccommodationType.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AccommodationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:04:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\Accommodation.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Accommodation.cs",
+              "ToolTip": "C:\\Users\\leboh\\Downloads\\TestFolder\\AuthAPI\\AuthAPI\\Models\\Accommodation.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Accommodation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:57:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
